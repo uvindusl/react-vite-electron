@@ -6,6 +6,8 @@ cd electron-with-react
 
 npm install
 
+npm i electron
+
 npm install --save-dev concurrently
 
 npm install --save-dev cross-env
